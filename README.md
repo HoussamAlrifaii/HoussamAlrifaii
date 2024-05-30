@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @HoussamAlrifaii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there, I'm Houssam Saleh Alrifaii👋
 
-<!---
-HoussamAlrifaii/HoussamAlrifaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a computer science student with a passion for data and AI. Currently, I'm focused on expanding my programming skills to pursue my dream work in data science and artificial intelligence
+
+## Skills and Technologies
+- **Languages**: Java, Python, C++, HTML, CSS, PHP, JS,SQL
+- **Tools**: Git, GitHub
+## Contact
+- 
+- [LinkedIn](www.linkedin.com/in/houssamSalehAlrifaii)

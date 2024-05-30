@@ -8,4 +8,4 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 - **Tools**: Git, GitHub
 ## Contact
 - 
-- [LinkedIn](www.linkedin.com/in/houssamSalehAlrifaii)
+- [LinkedIn]((https://www.linkedin.com/in/houssam-saleh-alrifaii-989792242/))

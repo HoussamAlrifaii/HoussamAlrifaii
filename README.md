@@ -1,4 +1,4 @@
-![Hi there](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
+<img src="path/to/your/animation.svg" alt="Animated SVG" width="100" height="100">
 Hi there, I'm Houssam Saleh Alrifaii👋
 
 ## About Me

@@ -27,12 +27,6 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 - Email: [houssamalrifai827@gmail.com](mailto:houssamalrifai827@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/houssam-saleh-alrifaii-989792242/)
 
-## Projects
-Here are some of my projects:
-
-- [Project 1](#): Description of project 1.
-- [Project 2](#): Description of project 2.
-- [Project 3](#): Description of project 3.
 
 ## GitHub Stats
 ![Houssam's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoussamAlrifaii&show_icons=true&theme=radical)

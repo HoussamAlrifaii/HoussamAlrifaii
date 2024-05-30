@@ -1,3 +1,4 @@
+![Hi there](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
 Hi there, I'm Houssam Saleh Alrifaii👋
 
 ## About Me

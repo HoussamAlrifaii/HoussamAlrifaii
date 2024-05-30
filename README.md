@@ -7,5 +7,5 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 - **Languages**: Java, Python, C++, HTML, CSS, PHP, JS,SQL
 - **Tools**: Git, GitHub
 ## Contact
-- 
+- Email: [houssamalrifai827@gmail.com](mailto:houssamalrifai827@gmail.com)
 -[LinkedIn](https://www.linkedin.com/in/houssam-saleh-alrifaii-989792242/)

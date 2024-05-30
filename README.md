@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourrepo)
-
 Hi there, I'm Houssam Saleh Alrifaii👋
 
 ## About Me

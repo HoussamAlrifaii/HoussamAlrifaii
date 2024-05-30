@@ -7,7 +7,7 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 
 ### Languages
 <p align="left">
-  <img src="https://media.giphy.com/media/1h1ZlI0kS78eDzfhIJ/giphy.gif" alt="Java" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/RiTjGjekHkKcbLxp9Q/giphy.gif" alt="Java" width="50" height="50"/>
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="50" height="50"/>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="C++" width="50" height="50"/>
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="50" height="50"/>

@@ -1,34 +1,11 @@
 # Hi there, I'm Houssam Saleh Alrifaii 👋
 
 ## About Me
+<p align="center">
 I'm a computer science student with a passion for data and AI. Currently, I'm focused on expanding my programming skills to pursue my dream work in data science and artificial intelligence.
+</p>
 
 ## Skills and Technologies
-
-
-
-
-### Web Development
-[![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
-
-### Programming Languages
-[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
-[![C++](https://skillicons.dev/icons?i=cpp&theme=light)](https://skillicons.dev)
-[![R](https://skillicons.dev/icons?i=r&theme=light)](https://skillicons.dev)
-[![MATLAB](https://skillicons.dev/icons?i=matlab&theme=light)](https://skillicons.dev)
-[![Arduino](https://skillicons.dev/icons?i=arduino&theme=light)](https://skillicons.dev)
-
-### Database Management
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-### Version Control
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 <div align="center">
 
@@ -56,21 +33,18 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 
 </div>
 
-
-
-
 ## Contact
-- Email: [houssamalrifai827@gmail.com](mailto:houssamalrifai827@gmail.com)
+<p align="center">
+- Email: [houssamalrifai827@gmail.com](mailto:houssamalrifai827@gmail.com) <br>
 - [LinkedIn](https://www.linkedin.com/in/houssam-saleh-alrifaii-989792242/)
-
+</p>
 
 ## GitHub Stats
-![Houssam's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoussamAlrifaii&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HoussamAlrifaii&show_icons=true&theme=radical" alt="Houssam's GitHub stats">
+</p>
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoussamAlrifaii&layout=compact&theme=radical)
-
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoussamAlrifaii&layout=compact&theme=radical" alt="Top Languages">
+</p>

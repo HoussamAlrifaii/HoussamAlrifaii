@@ -33,3 +33,8 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoussamAlrifaii&layout=compact&theme=radical)
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)

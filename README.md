@@ -4,7 +4,7 @@
 I'm a computer science student with a passion for data and AI. Currently, I'm focused on expanding my programming skills to pursue my dream work in data science and artificial intelligence.
 
 ## Skills and Technologies
-
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="Profile Technology Icons" width="32" height="32">
 ![Profile Technology Icons](https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f)
 
 

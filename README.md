@@ -9,7 +9,7 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 
 ### Languages
 ### Web Development
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)

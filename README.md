@@ -37,4 +37,4 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,java,php,py,)](https://skillicons.dev)

@@ -5,9 +5,8 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 
 ## Skills and Technologies
 
-[![NumPy](https://skillicons.dev/icons?i=numpy)](https://skillicons.dev)
-[![Pandas](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev)
-[![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://skillicons.dev)
+![Profile Technology Icons](https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f)
+
 
 ### Languages
 <p align="left">

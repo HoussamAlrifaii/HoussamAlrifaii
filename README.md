@@ -5,24 +5,30 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 
 ## Skills and Technologies
 
-<img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Profile Technology Icons 3" width="32" height="32">
 
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Profile Technology Icons 2" width="42" height="42">
-
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 ### Languages
-<p align="left">
-  <img src="https://media.giphy.com/media/RiTjGjekHkKcbLxp9Q/giphy.gif" alt="Java" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/SiMcadhDEZDmuwLqfj/giphy.gif" alt="C++" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="PHP" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" alt="SQL" width="50" height="50"/>
-</p>
+### Web Development
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+
+### Programming Languages
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
+[![MATLAB](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+
+### Database Management
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+### Version Control
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
 
 ### Tools
 <p align="left">

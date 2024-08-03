@@ -28,13 +28,9 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 
 ### Version Control
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 
-### Tools
-<p align="left">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Git" width="50" height="50"/>
-  <img src="https://media.giphy.com/media/4kIWpRT2Dm6A3TAVuS/giphy.gif" alt="GitHub" width="50" height="50"/>
-</p>
 
 ## Contact
 - Email: [houssamalrifai827@gmail.com](mailto:houssamalrifai827@gmail.com)

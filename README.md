@@ -5,6 +5,10 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 
 ## Skills and Technologies
 
+[![NumPy](https://skillicons.dev/icons?i=numpy)](https://skillicons.dev)
+[![Pandas](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev)
+[![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://skillicons.dev)
+
 ### Languages
 <p align="left">
   <img src="https://media.giphy.com/media/RiTjGjekHkKcbLxp9Q/giphy.gif" alt="Java" width="50" height="50"/>

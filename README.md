@@ -17,11 +17,11 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 
 ### Programming Languages
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
-[![MATLAB](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp&theme=light)](https://skillicons.dev)
+[![R](https://skillicons.dev/icons?i=r&theme=light)](https://skillicons.dev)
+[![MATLAB](https://skillicons.dev/icons?i=matlab&theme=light)](https://skillicons.dev)
+[![Arduino](https://skillicons.dev/icons?i=arduino&theme=light)](https://skillicons.dev)
 
 ### Database Management
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)

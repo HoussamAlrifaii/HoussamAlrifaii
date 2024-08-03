@@ -7,7 +7,7 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 
 
 
-### Languages
+
 ### Web Development
 [![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
@@ -30,6 +30,37 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
+
+
+### Web Development
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" alt="PHP"></a>
+</p>
+
+### Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=r" alt="R"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"></a>
+</p>
+
+### Database Management
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
+</p>
+
+### Version Control
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>
+</p>
 
 
 ## Contact

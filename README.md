@@ -16,7 +16,7 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 
 ### Programming Languages
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
@@ -46,4 +46,4 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,java,php,py,mysql,matlab,arduino,cpp,bootstrap,r,)](https://skillicons.dev)
+

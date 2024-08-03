@@ -36,7 +36,7 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 ## Contact
 <p align="center">
 - Email: [houssamalrifai827@gmail.com](mailto:houssamalrifai827@gmail.com) <br>
-- [LinkedIn](https://www.linkedin.com/in/houssam-saleh-alrifaii-989792242/)
+- [LinkedIn](https://www.linkedin.com/in/houssamsalehalrifaii/)
 </p>
 
 ## GitHub Stats

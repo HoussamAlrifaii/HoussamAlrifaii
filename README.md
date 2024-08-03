@@ -30,37 +30,33 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
-
+<div align="center">
 
 ### Web Development
-<p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML"></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" alt="PHP"></a>
-</p>
 
 ### Programming Languages
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=r" alt="R"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB"></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"></a>
-</p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=r&theme=light" alt="R"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab&theme=light" alt="MATLAB"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino&theme=light" alt="Arduino"></a>
 
 ### Database Management
-<p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
-</p>
 
 ### Version Control
-<p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>
-</p>
+
+</div>
+
+
 
 
 ## Contact

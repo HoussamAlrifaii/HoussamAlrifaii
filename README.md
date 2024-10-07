@@ -32,8 +32,6 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>
 
 
-[tableau.pdf](https://github.com/user-attachments/files/17284090/tableau.pdf)
-
 
 
 </div>

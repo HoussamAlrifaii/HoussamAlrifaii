@@ -44,6 +44,15 @@ I'm a computer science student with a passion for data and AI. Currently, I'm fo
   </a>
 </div>
 
+<div align="center">
+  <a href="mailto:salehmkahal0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/salehmkahal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HoussamAlrifaii&show_icons=true&theme=radical" alt="Houssam's GitHub stats">
